@@ -1,7 +1,7 @@
 ---
 title: "Online Adaptive Asymmetric Active Learning for Budgeted Imbalanced Data"
 collection: publications
-permalink: /pdf/Online_Adaptive
+permalink: /publication/Online_Adaptive
 date: 2018-08-19
 year: "2018"
 venue: "KDD"
