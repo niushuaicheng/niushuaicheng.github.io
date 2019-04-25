@@ -18,20 +18,17 @@ Personal Information
 
 Education
 ======
-* B.A. in Mathmatics, Southwest Jiaotong University, 2014 - 2018
+* B.A. in Mathematics, Southwest Jiaotong University, 2014 - 2018
 * Ph.D in Software Engineering, South China University of Technology, 2018 - 2023 (expected)
 
 Part awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Outstanding undergraduate of Sichuan Province, China. 2018
+* The second prize of the 8th China College Students Service Outsourcing Innovation and Entrepreneurship Competition. 2017
+* The first prize of May Day Mathematical Contest in Modeling. 2017
+* The third in Sichuan Area of SAS Data Mining Champion. 2016
+* The second prize of Nationality University Students Electrical Math Modeling Competition. 2016
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Service and leadership
 ======
@@ -54,12 +51,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Projects
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Fundings
 ======
 * Currently signed in to 43 different slack teams
