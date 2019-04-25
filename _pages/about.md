@@ -20,11 +20,11 @@ Publications
   </table>
 </div>
 
-#<div margin-bottom:100px>
-#  <a href="/conferences/">
-#    <button class="btn btn--readmore">Read more <font size="1">>></font></button>
-#  </a>
-#</div> 
+<div margin-bottom:100px>
+  <a href="/publications/">
+    <button class="btn btn--readmore">Read more <font size="1">>></font></button>
+  </a>
+</div> 
 
 A data-driven personal website
 ======
