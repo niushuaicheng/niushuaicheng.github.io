@@ -10,14 +10,3 @@ location: "Guangzhou, China"
 [Download Code](http://niushuaicheng.github.io/files/codes/ssoa3.html)
 
 Code of the paper "Online Adaptive Asymmetric Active Learning with Limited Budgets"
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
-
