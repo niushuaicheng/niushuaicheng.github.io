@@ -48,7 +48,7 @@ Projects
 <div>
   <table>
   {% for post in site.projects reversed %}
-    <tr>{% include archive-single-talk-cv.html %}</tr>
+    <tr>{% include archive-single-teach.html %}</tr>
   {% endfor %}
   </table>
 </div>
