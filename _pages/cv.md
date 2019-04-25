@@ -18,7 +18,7 @@ Personal Information
 
 Education
 ======
-* B.A. in Mathematics, Southwest Jiaotong University, 2014 - 2018.
+* B.S. in Mathematics, Southwest Jiaotong University, 2014 - 2018.
 * Ph.D in Software Engineering, South China University of Technology, 2018 - 2023 (expected).
 
 Part awards
