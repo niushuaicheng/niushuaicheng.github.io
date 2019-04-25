@@ -56,6 +56,6 @@ Projects
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Fundings
-======
-* Currently signed in to 43 different slack teams
+#Fundings
+#======
+#* Currently signed in to 43 different slack teams
