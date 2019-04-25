@@ -18,8 +18,8 @@ Personal Information
 
 Education
 ======
-* B.A. in Mathematics, Southwest Jiaotong University, 2014 - 2018
-* Ph.D in Software Engineering, South China University of Technology, 2018 - 2023 (expected)
+* B.A. in Mathematics, Southwest Jiaotong University, 2014 - 2018.
+* Ph.D in Software Engineering, South China University of Technology, 2018 - 2023 (expected).
 
 Part awards
 ======
@@ -32,12 +32,11 @@ Part awards
   
 Service and leadership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Future Engineers’ Leadership and Innovation Academy: building UK-China teams to support both countries’ manufacturing ambitions, 2018.11 - 2018.12.
+* Student secretary of youth league committee, school of mathematics, Southwest Jiaotong University, China, 2016.5 - 2017.5.
+* Young marxist engineering elite talent program, Southwest Jiaotong University, China, 2017.3 - 2019.3. 
+* Head of technology department, robotics association, Southwest Jiaotong University, China, 2015.5 - 2016.5.
+
 
 Publications
 ======
