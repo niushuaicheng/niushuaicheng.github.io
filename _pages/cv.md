@@ -39,7 +39,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include publication.html %}#archive-single-cv
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
