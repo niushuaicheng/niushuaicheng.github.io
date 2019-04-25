@@ -9,4 +9,4 @@ location: "Guangzhou, China"
 ---
 
 Download: [Pdf](http://niushuaicheng.github.io/files/presentations/nao.pdf)
-This is the presentation of NIPS 2018 paper "Neural Architecture Optimization".
+ This is the presentation of NIPS 2018 paper "Neural Architecture Optimization".
