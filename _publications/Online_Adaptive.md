@@ -11,7 +11,7 @@ thumbnail: "Online_Adaptive.png"
 teaser :
 authors: "Zhang, Yifan and Zhao, Peilin and Cao, Jiezhang and Ma, Wenye and Huang, Junzhou and Wu, Qingyao and Tan, Mingkui"
 bibtex: #Online_Adaptive.txt
-uri: Online_Adaptive.png
+uri: #Online_Adaptive.pdf
 arxiv: 
 project: 
 source: https://github.com/Vanint/OA3
