@@ -32,7 +32,7 @@ Presentations
 <div>
   <table>
   {% for post in site.talks reversed %}
-    <tr>{% include publication.html %}</tr>
+    <tr>{% include archive-single-talk.html %}</tr>
   {% endfor %}
   </table>
 </div>
