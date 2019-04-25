@@ -12,6 +12,19 @@ Received my Bachelor Degree in Mathematics and Applied Mathematics in 2018 from 
 
 Publications
 ----------
+<div>
+  <table>
+  {% for post in site.publications reversed %}
+    <tr>{% include publication.html %}</tr>
+  {% endfor %}
+  </table>
+</div>
+
+#<div margin-bottom:100px>
+#  <a href="/conferences/">
+#    <button class="btn btn--readmore">Read more <font size="1">>></font></button>
+#  </a>
+#</div> 
 
 A data-driven personal website
 ======
