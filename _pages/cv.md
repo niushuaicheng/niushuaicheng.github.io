@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-牛帅程
--------
-
 Personal Information
 =======
 *******
