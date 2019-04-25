@@ -9,13 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Personal Information
+----------
+*******
+* Date of Birth　　　　　　4 Feb, 1997
+* Gender　　　　　　　　 &ensp;Male
+* Nationality　　　　　　　People's Republic of China
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Mathmatics, Southwest Jiaotong University, 2014 - 2018
+* Ph.D in Software Engineering, South China University of Technology, 2018 - 2023 (expected)
 
-Work experience
+Part awards
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,7 +33,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Service and leadership
 ======
 * Skill 1
 * Skill 2
