@@ -8,5 +8,5 @@ date: 2018-11-12
 location: "Guangzhou, China"
 ---
 
-Download: [Pdf](http://niushuaicheng.github.io/files/presentations/survernas.pdf)
- Thie is the slides of A Brief Introduction to Neural Architecture Search.
+[Download: Pdf](http://niushuaicheng.github.io/files/presentations/survernas.pdf)
+ This is the slides of A Brief Introduction to Neural Architecture Search.
