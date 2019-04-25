@@ -2,8 +2,8 @@
 title: "A Brief Introduction to Neural Architecture Search"
 collection: talks
 type: "Presentation"
-permalink: /talks/NAO
-venue: "South China University of Technology "
+permalink: /talks/surveyNAS
+venue: "South China University of Technology"
 date: 2018-11-12
 location: "Guangzhou, China"
 ---
