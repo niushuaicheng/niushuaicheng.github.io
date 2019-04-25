@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Received my Bachelor Degree in Mathematics and Applied Mathematics in 2018 from Southwest Jiaotong University in Chengdu, China. Currently I am a Ph.D candidate of Software Engineering in South China University of Technology in Guangzhou, China. My supervisors are Prof. Mingkui Tan (SCUT) and Dr. Peilin Zhao (Tencent AI Lab). My research interests include Deep Learning, Online Learning, Neural Network Architecture Search and Reinforcement Learning.
+Received my Bachelor Degree in Mathematics and Applied Mathematics in 2018 from Southwest Jiaotong University in Chengdu, China. Currently I am a Ph.D candidate of Software Engineering in South China University of Technology, Guangzhou, China. My supervisors are Prof. Mingkui Tan (SCUT) and Dr. Peilin Zhao (Tencent AI Lab). My research interests include Deep Learning, Online Learning, Neural Network Architecture Search and Reinforcement Learning.
 
 Publications
 ======
