@@ -4,7 +4,7 @@ collection: projects
 type: "App"
 permalink: /projects/Let_Go
 venue: "SWJTU"
-date: 2017-08
+date: 2018-08-30
 location: "Chengdu, China"
 ---
 
