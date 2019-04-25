@@ -42,7 +42,7 @@ Workshop and programs
 * The Automatic Formal Verification of Programs (程序的形式化自动验证), 2016.9 - 2017.6. 
 * An auditory-based robot coordinate system establishment method, 2016.4 - 2017.4.
 * Designing a small remote boat to clean floating objects on water, 2015.4 - 2016.4. 
-* Smart home monitoring system, the second China-US Young Maker Competition works, 2015.5.
+* Smart home monitoring system, the second China-US Young Maker Competition work, 2015.5.
 
 Publications
 ======
