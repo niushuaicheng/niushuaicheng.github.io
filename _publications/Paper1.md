@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Online_Adaptive.png"
 teaser :
-authors: "Authors" #"Zhang, Yifan and Zhao, Peilin and Cao, Jiezhang and Ma, Wenye and Huang, Junzhou and Wu, Qingyao and Tan, Mingkui"
+authors: "Authors Your Name, You. (2009)." #"Zhang, Yifan and Zhao, Peilin and Cao, Jiezhang and Ma, Wenye and Huang, Junzhou and Wu, Qingyao and Tan, Mingkui"
 bibtex: #Online_Adaptive.txt
 uri: paper1.pdf
 arxiv: 
