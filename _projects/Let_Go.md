@@ -7,7 +7,9 @@ venue: "SWJTU"
 date: 2017-08-30
 location: "Chengdu, China"
 ---
-[Video1](http://niushuaicheng.github.io/files/videos/LetGo1.mp4)~ [Video2](http://niushuaicheng.github.io/files/videos/LetGo2.mp4)
+[Download Video1](http://niushuaicheng.github.io/files/videos/LetGo1.mp4)
+[Download Video2](http://niushuaicheng.github.io/files/videos/LetGo2.mp4)
+
 The second prize of the 8th China college students service outsourcing innovation and entrepreneurship competition.
 
 
