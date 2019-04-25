@@ -4,11 +4,12 @@ collection: projects
 type: "App"
 permalink: /projects/Let_Go
 venue: "SWJTU"
-date: 2018-08-30
+date: 2017-08-30
 location: "Chengdu, China"
 ---
+[Video1](http://niushuaicheng.github.io/files/videos/LetGo1.mp4)~ [Video2](http://niushuaicheng.github.io/files/videos/LetGo2.mp4)
+The second prize of the 8th China college students service outsourcing innovation and entrepreneurship competition.
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
