@@ -26,12 +26,13 @@ Publications
   </a>
 </div> 
 
+
 Presentations
 ======
 <div>
   <table>
   {% for post in site.talks reversed %}
-    <tr>{% include archive-single.html %}</tr>
+    <tr>{% include publication.html %}</tr>
   {% endfor %}
   </table>
 </div>
