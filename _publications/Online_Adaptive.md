@@ -16,5 +16,6 @@ arxiv:
 project: 
 source: https://github.com/Vanint/OA3
 poster: 
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 data:
 ---
