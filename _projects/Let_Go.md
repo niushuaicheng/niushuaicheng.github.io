@@ -11,6 +11,7 @@ location: "Chengdu, China"
 [Download Video2](http://niushuaicheng.github.io/files/videos/LetGo2.mp4)
 
 The second prize of the 8th China college students service outsourcing innovation and entrepreneurship competition.
+Video1 is the advertisement & Video2 is the presentation of the product.
 
 
 Heading 1
