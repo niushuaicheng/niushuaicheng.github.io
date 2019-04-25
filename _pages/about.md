@@ -32,7 +32,7 @@ Presentations
 <div>
   <table>
   {% for post in site.talks reversed %}
-    <tr>{% include archive-single.html %}</tr>
+    <tr>{% include archive-singletalk-cv.html %}</tr>
   {% endfor %}
   </table>
 </div>
@@ -48,7 +48,7 @@ Projects
 <div>
   <table>
   {% for post in site.projects reversed %}
-    <tr>{% include archive-single.html %}</tr>
+    <tr>{% include archive-single-talk-cv.html %}</tr>
   {% endfor %}
   </table>
 </div>
