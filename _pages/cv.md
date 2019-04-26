@@ -26,7 +26,7 @@ Part awards
 * Outstanding undergraduate of Sichuan Province, China. 2018
 * The second prize of the 8th China College Students Service Outsourcing Innovation and Entrepreneurship Competition. 2017
 * The first prize of May Day Mathematical Contest in Modeling. 2017
-* The third in Sichuan Area of SAS Data Mining Champion. 2016
+* The third one of SAS Data Mining Champion, Sichuan Area. 2016
 * The second prize of Nationality University Students Electrical Math Modeling Competition. 2016
 
   
