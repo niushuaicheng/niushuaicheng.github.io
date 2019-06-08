@@ -13,11 +13,6 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://niushuaicheng.github.io/files/publications/paper1.pdf</loc>
-  <lastmod>2019-06-06T01:49:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://niushuaicheng.github.io/publications/</loc>
   <lastmod>2019-06-06T01:50:04+00:00</lastmod>
   <priority>0.80</priority>
@@ -29,6 +24,11 @@
 </url>
 <url>
   <loc>https://niushuaicheng.github.io/projects/</loc>
+  <lastmod>2019-06-06T01:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://niushuaicheng.github.io/cv/</loc>
   <lastmod>2019-06-06T01:50:04+00:00</lastmod>
   <priority>0.80</priority>
 </url>
