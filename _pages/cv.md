@@ -12,7 +12,7 @@ redirect_from:
 Personal Information
 =======
 *******
-Shuaicheng Niu (牛帅程)
+* Name &emsp;&emsp;&emsp;Shuaicheng Niu (牛帅程)
 * Date of Birth　　　　　　4 Feb, 1997
 * Gender　　　　　　　　 &ensp;Male
 * Nationality　　　　　　　People's Republic of China
@@ -36,6 +36,7 @@ Service and leadership
 * Future Engineers’ Leadership and Innovation Academy: building UK-China teams to support both countries’ manufacturing ambitions, 2018.11 - 2018.12.
 * Student secretary of youth league committee, school of mathematics, Southwest Jiaotong University, China, 2016.5 - 2017.5.
 * Young marxist engineering elite talent program, Southwest Jiaotong University, China, 2017.3 - 2019.3. 
+* Assistant of student affairs centre, school of mathematics, Southwest Jiaotong University, China, 2016.9 - 2017.12.
 * Head of technology department, robotics association, Southwest Jiaotong University, China, 2015.5 - 2016.5.
 
 Workshop and programs
