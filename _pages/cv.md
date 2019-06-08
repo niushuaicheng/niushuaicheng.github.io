@@ -12,7 +12,7 @@ redirect_from:
 Personal Information
 =======
 *******
-* Name &emsp;&emsp;&emsp;Shuaicheng Niu (牛帅程)
+* Name            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Shuaicheng Niu (牛帅程)
 * Date of Birth　　　　　　4 Feb, 1997
 * Gender　　　　　　　　 &ensp;Male
 * Nationality　　　　　　　People's Republic of China
