@@ -12,7 +12,6 @@ redirect_from:
 Personal Information
 =======
 *******
-#* Name            &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Shuaicheng Niu (牛帅程)
 * 牛帅程
 * Shuaicheng Niu
 * Date of Birth　　　　　　4 Feb, 1997
