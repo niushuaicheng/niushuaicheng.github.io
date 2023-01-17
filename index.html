@@ -42,13 +42,13 @@ b.paper {
 body {
   position: relative;
   margin: 3em auto 2em auto;
-  width: 1000px;
+  width: 800px;
   font-family: Lato, Verdana, Helvetica, sans-serif;
   font-size: 16px;
-  background: #eee;
+  background: #fff;
 }
 h2 {
-  font-family: Lato, Verdana, Helvetica, sans-serif;
+  font-family: Lato;
   font-size: 17pt;
   font-weight: 700;
 }
@@ -83,17 +83,18 @@ em, i {
 }
 div.section {
   clear: both;
-  margin-bottom: 1.5em;
-  background: #eee;
+  /* margin-top: 0.5em; */
+  margin-bottom: 1.3em;
+  background: #fff;
 }
 div.spanner {
   clear: both;
 }
 div.paper {
   clear: both;
-  margin-top: 0.5em;
-  margin-bottom: 1em;
-  border: 1px solid #ddd;
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  border: 0px solid #ddd;
   background: #fff;
   padding: 1em 1em 1em 1em;
 }
@@ -143,7 +144,7 @@ div.paper pre {
 
   
 <body>
-<div style="margin-bottom: 1em; border: 1px solid #ddd; background-color: #fff; padding: 1em; height: 140px;">
+<div style="margin-bottom: 1em; border: 0px solid #ddd; background-color: #fff; padding: 1em; height: 140px;">
 <div style="margin: 0px auto; width: 100%;">
 <img title="Shuaicheng Niu" style="float: left; padding-left: .5em; height: 140px;" src="Shuaicheng_Niu.jpeg" />
 <div style="padding-left: 12em; vertical-align: top; height: 120px;"><span style="line-height: 150%; font-size: 20pt;">Shuaicheng Niu 牛帅程</span><br />
@@ -167,8 +168,8 @@ div.paper pre {
 <div style="clear: both;">
 <div class="section">
 <h2>About Me</h2>
-<div class="paper">
-I am currently a Ph.D student of Software Engineering in <a href="https://www.scut.edu.cn/new/">South China University of Technology</a >, Guangzhou, China. My supervisor is Prof. <a href="https://scholar.google.com/citations?user=EVsoTGkAAAAJ&hl=en&oi=ao">Mingkui Tan</a >. I also work as an intern in <a href="https://ai.tencent.com/ailab/zh/index">Tencent AI Lab</a > (since Sep 2019, ongoing), and here I am co-supervised by Dr. <a href="https://scholar.google.com/citations?user=puazh38AAAAJ&hl=en&oi=ao">Jiaxiang Wu</a > and Dr. <a href="https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en&oi=ao">Peilin Zhao</a >. My research interests include <strong>neural architecture search</strong>, <strong>test-time adaptation</strong> for out-of-distribution generalization and <strong>deep domain adaptation</strong>.
+<div class="paper"; style="border: 0px solid #ddd;">
+I am currently a Ph.D student of Software Engineering in <a href="https://www.scut.edu.cn/new/">South China University of Technology</a >, Guangzhou, China. My advisor is Prof. <a href="https://scholar.google.com/citations?user=EVsoTGkAAAAJ&hl=en&oi=ao">Mingkui Tan</a >. I also work as an intern in <a href="https://ai.tencent.com/ailab/zh/index">Tencent AI Lab</a > (since Sep 2019, ongoing), and here my mentors are Dr. <a href="https://scholar.google.com/citations?user=puazh38AAAAJ&hl=en&oi=ao">Jiaxiang Wu</a > and Dr. <a href="https://scholar.google.com/citations?user=HPeX_YcAAAAJ&hl=en&oi=ao">Peilin Zhao</a >. My research interests include <strong>neural architecture search</strong>, <strong>test-time adaptation</strong> for out-of-distribution generalization and <strong>deep domain adaptation</strong>.
 
 
 </div>
@@ -178,11 +179,14 @@ I am currently a Ph.D student of Software Engineering in <a href="https://www.sc
 <div style="clear: both;">
   <div class="section">
     <h2>Research Interests</h2>
-    <div class="paper">
+    <div class="paper"; style="border: 0px solid #ddd; margin-left: 10px;">
       <ul>
-    <li> Transfer Learning and Deep Domain Adaptation.</li>
+    <li> <strong> Out-of-Distribution Generalization </strong>: Efficient Test-Time Model Adaptation in the Open Real World.</li>
+    <li> <strong> Transfer Learning </strong>: Unsupervised/Semi-supervised/Continual/Source Data Free Domain Adaptation.</li> 
+    <li> <strong> Automated Machine Learning </strong>: Neural Architecture Search, Discrete Optimization and Applications.</li>
+    <!-- <li> Transfer Learning and Deep Domain Adaptation.</li>
     <li> Efficient and Automatic Neural Architecture Design.</li> 
-    <li> Efficient Test-Time Model Adaptation/Robustification.</li>
+    <li> Efficient Test-Time Model Adaptation/Robustification.</li> -->
     </div>
   </div>
   </div>
@@ -190,8 +194,8 @@ I am currently a Ph.D student of Software Engineering in <a href="https://www.sc
 <div style="clear: both;">
 <div class="section">
   <h2>News</h2>
-  <div class="paper">
-    <div style="overflow-y: scroll; height:400px; width:970px">
+  <div class="paper"; style="border: 0px solid #ddd;">
+    <div style="overflow-y: scroll; height:280px; width:770px">
     <ul> 
 
       <!-- <b><font face="Arial" size="4">News</font></b>
@@ -233,7 +237,7 @@ I am currently a Ph.D student of Software Engineering in <a href="https://www.sc
 
 <h2>Experiences</h2>
 <div style="clear: both;">
-  <div class="paper">
+  <div class="paper"; style="border: 0px solid #ddd;">
   
   
 
@@ -319,7 +323,7 @@ I am currently a Ph.D student of Software Engineering in <a href="https://www.sc
   <h2 id="confpapers">Conference Papers</h2>
   
   
-  <div class="paper" id="EATA">
+  <div class="paper" id="EATA" style="background-color: #ffffd0;">
     <div> <strong>Efficient Test-Time Model Adaptation without Forgetting</strong><br>
       <strong><u>Shuaicheng Niu</u></strong>, Jiaxiang Wu, Yifan Zhang, Yaofo Chen, Shijian Zheng, Peilin Zhao, Mingkui Tan <br>
       International Conference on Machine Learning (<strong><i>ICML</i></strong>), 2022.<br>
@@ -487,7 +491,7 @@ I am currently a Ph.D student of Software Engineering in <a href="https://www.sc
     <li>IEEE Transactions on Image Processing (TIP), Reviewer</li>
     <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Reviewer</li>
     <li>Conference on Neural Information Processing Systems (NeurIPS), Reviewer 22</li>
-    <li>International Conference on Machine Learning (ICML), Reviewer 22</li>
+    <li>International Conference on Machine Learning (ICML), Reviewer 22, 23</li>
     <li>The Conference on Computer Vision and Pattern Recognition (CVPR), Reviewer 22, 23</li>
     <li>European Conference on Computer Vision (ECCV), Reviewer 22</li>
     <li> IEEE student member, CCF student member </li>
